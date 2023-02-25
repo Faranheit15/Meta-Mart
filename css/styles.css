@@ -104,7 +104,7 @@ h2 {
 
 .testimonial-img {
     width: 50%;
-    border-radius: 100%;
+    /* border-radius: 100%; */
     margin: 20px;
 }
 
@@ -171,4 +171,9 @@ h2 {
 
 a {
     color: black;
+}
+
+.avatar-img {
+    height: 350px;
+    width: auto;
 }
